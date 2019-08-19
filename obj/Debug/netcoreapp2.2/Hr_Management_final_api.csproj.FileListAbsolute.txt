@@ -1,0 +1,198 @@
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Documents/Samplevc/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+C:/Users/Lenovo/Desktop/HR/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/phyophyosan/Documents/Updated Project/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+C:/Users/Lenovo/Desktop/InternProject/update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Desktop/Shoon/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+c:/Users/Asus/Desktop/DotNet/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Volumes/NO NAME/Update/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Volumes/NO NAME/Update/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+C:/Users/Lenovo/Desktop/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+D:/A-InternProject/version5/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+D:/A-InternProject/version5/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.deps.json
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.json
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.runtimeconfig.dev.json
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Desktop/Hr_Management_final_api/bin/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csprojAssemblyReference.cache
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.csproj.CoreCompileInputs.cache
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cache
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorAssemblyInfo.cs
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfoInputs.cache
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.AssemblyInfo.cs
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.dll
+/Users/phyophyosan/Desktop/Hr_Management_final_api/obj/Debug/netcoreapp2.2/Hr_Management_final_api.pdb
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.deps.json
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.runtimeconfig.json
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.runtimeconfig.dev.json
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.dll
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.pdb
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.AssemblyInfo.cs
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.dll
+C:\Users\User\Desktop\Hr\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.pdb
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.deps.json
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.runtimeconfig.json
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.runtimeconfig.dev.json
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.dll
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\bin\Debug\netcoreapp2.2\Hr_Management_final_api.pdb
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.csprojAssemblyReference.cache
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.csproj.CoreCompileInputs.cache
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.RazorAssemblyInfo.cache
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.RazorAssemblyInfo.cs
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.AssemblyInfoInputs.cache
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.AssemblyInfo.cs
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.RazorTargetAssemblyInfo.cache
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.dll
+d:\Intern_Project\Human Resource Projects\Hr_Management_final_api\obj\Debug\netcoreapp2.2\Hr_Management_final_api.pdb
